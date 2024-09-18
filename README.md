@@ -1,4 +1,8 @@
-# machineLearningMAI
+# Лабораторные работы по курсу "Машинное обучение"
+
+| Номер работы | Номер варианта |
+|:------------:|:--------------:|
+|      1       |       4        |
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
